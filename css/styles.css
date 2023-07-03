@@ -369,4 +369,11 @@ code, pre {
         padding: 10px;
         background-color: rgba(0, 0, 0, 0.1);
     }
+
+    .showcase-form {
+        width: 300px;
+        justify-self: center;
+        margin: auto;
+        animation: slideInFromBottom 1s ease-in;
+    }
 }
